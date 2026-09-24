@@ -1050,13 +1050,18 @@ This project was developed during an internship at:
 The project focuses on the digitalization of industrial monitoring and maintenance while incorporating artificial intelligence and cybersecurity capabilities.
 
 The main objective is to demonstrate how modern software technologies can be applied to an industrial environment to improve visibility, maintenance management, anomaly analysis and security monitoring.
-<img width="1918" height="865" alt="Capture d&#39;écran 2026-09-24 171954" src="https://github.com/user-attachments/assets/6e365e7e-990c-4e7a-bb22-d03addc12c43" />
-<img width="1891" height="897" alt="Capture d&#39;écran 2026-09-24 172009" src="https://github.com/user-attachments/assets/90000e56-192c-498b-ac5c-287186be5de7" />
-<img width="1877" height="916" alt="Capture d&#39;écran 2026-09-24 172022" src="https://github.com/user-attachments/assets/91fe6f5d-b2e7-477e-a459-bcc347b87510" />
-<img width="1887" height="864" alt="Capture d&#39;écran 2026-09-24 172036" src="https://github.com/user-attachments/assets/8228c254-5363-48e3-90a7-522c8b838cb8" />
-<img width="1875" height="885" alt="Capture d&#39;écran 2026-09-24 172052" src="https://github.com/user-attachments/assets/ca1048f7-d4eb-497a-b703-c62ff3aa8230" />
-<img width="1883" height="910" alt="Capture d&#39;écran 2026-09-24 172105" src="https://github.com/user-attachments/assets/31f7df51-bc2f-42ed-bf25-19c56fe1dc6f" />
-<img width="1892" height="899" alt="Capture d&#39;écran 2026-09-24 172120" src="https://github.com/user-attachments/assets/8b7e156d-1298-4544-b4aa-32c5a62555ad" />
+---
+
+<img width="1918" height="865" alt="Capture d&#39;écran 2026-09-24 171954" src="https://github.com/user-attachments/assets/112e1942-a3bb-490f-8e8e-0aa6acb4e8b6" />
+<img width="1891" height="897" alt="Capture d&#39;écran 2026-09-24 172009" src="https://github.com/user-attachments/assets/000f3223-90a1-41f8-8167-2b4742dc36ae" />
+
+<img width="1877" height="916" alt="Capture d&#39;écran 2026-09-24 172022" src="https://github.com/user-attachments/assets/4374c27d-b5e9-41dc-bd81-e3b6dbb1bcea" />
+<img width="1887" height="864" alt="Capture d&#39;écran 2026-09-24 172036" src="https://github.com/user-attachments/assets/9aae7713-6511-4d39-a17f-26e2d884cc26" />
+<img width="1875" height="885" alt="Capture d&#39;écran 2026-09-24 172052" src="https://github.com/user-attachments/assets/cd744a89-917d-40db-b2fe-9cda1c5a6563" />
+<img width="1883" height="910" alt="Capture d&#39;écran 2026-09-24 172105" src="https://github.com/user-attachments/assets/4ed21150-56bb-4757-8056-1dacd3423262" />
+<img width="1892" height="899" alt="Capture d&#39;écran 2026-09-24 172120" src="https://github.com/user-attachments/assets/9b0177d9-90cd-45ea-b003-e6c2debf1224" />
+
+
 
 ---
 
